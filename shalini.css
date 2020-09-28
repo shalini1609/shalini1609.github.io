@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+}
+.full-width
+{
+    margin-left: 100px;
+    margin-top: 231px;
+}
+p{
+    font-family: ocr-a;
+}
+.about-btn
+{
+    border: 2px solid;
+    width: 25%;
+}
+.first-block
+{
+    height: 60vh;
+}
+.skills-block
+{
+    margin-top: 100px;
+}
+.experience-block
+{
+    margin-top: 100px;
+}
+.hero-shalini-img
+{
+    width: 678px;
+    position: relative;
+    bottom: 41%;
+    right: 16%;
+}
+.contactme-block
+{
+    background-color: rgba(49, 49, 49, 1);
+    border-color: rgba(112, 112, 112, 1);
+    border-style: solid;
+    border-width: 2px;
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
+}
+.form-field
+{
+    color: white;
+    border-bottom: 5px solid white;
+    border: 0px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ffff;
+    margin-top: 18px;
+}
+
+input.form-field:focus {
+    outline-width: 0;
+}
+
+textarea.form-field:focus {
+    outline-width: 0;
+}
+.submit-btn
+{
+    background: white;
+    width: 25%;
+    border-radius: 2px;
+}
