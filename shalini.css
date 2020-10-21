@@ -1,103 +1,94 @@
-html{
-    font-family: Linotte ☞;
-    
-
+html {
+	font-family: Linotte ☞;
 }
 
-
-.about-btn:hover{
-    background-color: black;
-    color: white;
-    opacity: 100%;
-    
-     -webkit-transform: scale(1.3);
-     -ms-transform: scale(1.3);
-     transform: scale(1.3);
-    transition-duration: 800ms;
+.about-btn:hover {
+	background-color: black;
+	color: white;
+	opacity: 100%;
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+	transition-duration: 800ms;
 }
 
-.hello-world
-{
-    font-family: ocr-a;
-    font-size: 32px;
-    font-weight: bold;
+.hello-world {
+	font-family: ocr-a;
+	font-size: 32px;
+	font-weight: bold;
 }
 
-.about-btn
-{
-
-    width: 25%;
-    background-color: #ffffff;
-    border-color: black;
-    border-width: 1px;
-    border-radius: 5px;
-}
-.main-block
-{
-    display: flex;
-       align-items: center;
-       margin-right: 100px;
-       margin-left: 100px;
-}
-.end-block
-{
-    display: flex;
-       margin-right: 100px;
-       margin-left: 100px;
-       margin-top: 100px;
-}
-.blocks
-{
-    align-items: center;
-    margin-right: 100px;
-    margin-left: 100px;
-    margin-top: 100px;
+.about-btn {
+	width: 25%;
+	background-color: #ffffff;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 5px;
 }
 
-.heading
-{
-    font-family: ocr-a;
-    font-size: 32px;
-    font-weight: bold;
+.main-block {
+	display: flex;
+	align-items: center;
+	margin-right: 100px;
+	margin-left: 100px;
+}
 
+.end-block {
+	display: flex;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 100px;
 }
-.hero-shalini-img
-{
-    width: 781px;
-    position: relative;
-    margin-left: -122px;
+
+.blocks {
+	align-items: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 100px;
 }
-.contactme-block
-{
-    background-color: rgba(49, 49, 49, 1);
-    border-color: rgba(112, 112, 112, 1);
-    border-style: solid;
-    border-width: 2px;
-    height: 500px;
-    width: 500px;
-    margin-left: auto;
+
+.heading {
+	font-family: ocr-a;
+	font-size: 32px;
+	font-weight: bold;
 }
-.form-field
-{
-    color: white;
-    border-bottom: 5px solid white;
-    border: 0px;
-    background: transparent;
-    border: none;
-    border-bottom: 1px solid rgb(190, 177, 177);
-    margin-top: 18px;
+
+.hero-shalini-img {
+	width: 781px;
+	position: relative;
+	margin-left: -122px;
+}
+
+.contactme-block {
+	background-color: rgba(49, 49, 49, 1);
+	border-color: rgba(112, 112, 112, 1);
+	border-style: solid;
+	border-width: 2px;
+	height: 500px;
+	width: 500px;
+	margin-left: auto;
+}
+
+.form-field {
+	color: white;
+	border-bottom: 5px solid white;
+	border: 0px;
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid rgb(190, 177, 177);
+	margin-top: 18px;
 }
 
 input.form-field:focus {
-    outline-width: 0;
+	outline-width: 0;
 }
 
 textarea.form-field:focus {
-    outline-width: 0;
+	outline-width: 0;
 }
-.submit-btn
-{
-    background: white;
-    width: 25%;
-    border-radius: 2px;
+
+.submit-btn {
+	background: white;
+	width: 25%;
+	border-radius: 2px;
 }
